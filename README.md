@@ -1,6 +1,7 @@
 # bacons_cipher
-bacon's cipher encrpyt
+bacon's cipher encrpyt<br/>
 require two arguments:  plaintext and covertext
-result：
-[key map===>]['babbb'...26]
+<br/>
+result：<br/>
+[key map===>]['babbb'...26]<br/>
 [cipher===>][CIPHER]
